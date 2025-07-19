@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 body{
     background-color: #f0f0f0;
     font-family: Arial, sans-serif;
     color: #333;
+=======
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+>>>>>>> 6e9883a8ad191c2dd3573cd377cca6e95cdbfea4
 }
